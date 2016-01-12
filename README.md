@@ -16,3 +16,7 @@ https://timestamp-ms.herokuapp.com/1450137600
 ```json
 { "unix": 1450137600, "natural": "December 15, 2015" }
 ```
+
+## Live Demo
+
+A  demo can be [found here](https://api-timestamp.herokuapp.com/).
